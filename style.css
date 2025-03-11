@@ -1,0 +1,26 @@
+/* button{ background-color: rgba(255, 122, 80, 1); border-radius: 20px ; border-bottom-right-radius: 0; width: 79px;height: 33px; border: none; color: white; 
+}
+   div{  display: flex;    }
+ .fer{ display: flex; align-items: center; margin-bottom: 20px ;
+gap: 20px; 
+} */
+ header{display: flex; justify-content: space-around;align-items: center;}
+ .salom{display: flex;  gap: 40px; align-items: center;}
+ a{text-decoration: none; color: black;}
+ header button{ width: 120px; height: 50.41px; background-color: rgba(255, 122, 80, 1); border-radius: 5px; border: none; color: white;}
+ main h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif   ; font-size: 66px; width: 500px;}
+ main span{color: red;}
+ main p{font-size: 20px; width: 400px;}
+
+.main { display: flex;align-items: center; justify-content: space-around;}
+main button{ background-color: rgba(255, 122, 80, 1); width: 183px;height: 50.42px; border-radius: 5px; color: white; border: none;}
+.bir{font-size: 40px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;}
+.lom{border-top-right-radius: 30px; border-top-left-radius: 10px; width: 176px;height: 58px; top: 1515px; border-right: 1px;}
+.ved img{width: 79px;height: 33px;}
+.ved{width: 89px;height: 33px; border-top-right-radius: 30px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;}
+
+main{display: flex; align-items: center;  }
+.div{display: flex; justify-content: space-evenly;}
+footer{text-align: center; width: 1300px; margin: 0 auto;}
